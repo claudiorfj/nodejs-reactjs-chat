@@ -1,5 +1,5 @@
 # Fullstack Chat project
-Projeto Chat fullstack, utilizando Node.js, Express, Axios, Cors, Chat Engine,<br>
+Projeto Chat fullstack, utilizando React, Node.js, Express, Axios, Cors, Chat Engine,<br>
 
  
 
